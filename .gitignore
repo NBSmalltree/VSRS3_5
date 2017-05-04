@@ -91,11 +91,9 @@ $RECYCLE.BIN/
 *.pdb
 *.exe.lastcodeanalysissucceeded
 *.obj.enc
-*.sln
 *.ilk
 /.Archive
 /GeneratedFiles
 *.dsp
 *.vcproj
-*.dsw
 *.yuv
